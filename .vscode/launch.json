@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Documents/Sensor-Monitoring-System/final-assignment",
-      "program": "d:/Documents/Sensor-Monitoring-System/final-assignment/build/Debug/outDebug",
+      "cwd": "d:/Documents/Sensor-Monitoring-System",
+      "program": "d:/Documents/Sensor-Monitoring-System/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
